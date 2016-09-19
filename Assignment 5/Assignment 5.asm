@@ -334,7 +334,7 @@ sortList ENDP
 ;-------------------------------------------------------------------------
 ;DISPLAY MEDIAN
 ;
-;Description:  It is the “middle” element of the sorted list.  If the number
+;Description:  It is the Â“middleÂ” element of the sorted list.  If the number
 ;             of elements is even, the median is the average of the middle 
 ;             two elements(may be rounded). 
 ;Receives:                   array(by reference), request (by value)
